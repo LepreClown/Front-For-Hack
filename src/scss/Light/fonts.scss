@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('fontsroximaNova-Black.eot');
+  src: local('../fonts/Proxima Nova Black'), local('ProximaNova-Black'),
+  url('fontsroximaNova-Black.eot?#iefix') format('embedded-opentype'),
+  url('fontsroximaNova-Black.woff') format('woff'),
+  url('fontsroximaNova-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('fontsroximaNova-Bold.eot');
+  src: local('./fonts/Proxima Nova Bold'), local('ProximaNova-Bold'),
+  url('fontsroximaNova-Bold.eot?#iefix') format('embedded-opentype'),
+  url('fontsroximaNova-Bold.woff') format('woff'),
+  url('fontsroximaNova-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('fontsroximaNova-Regular.eot');
+  src: local('./fonts/Proxima Nova Regular'), local('ProximaNova-Regular'),
+  url('fontsroximaNova-Regular.eot?#iefix') format('embedded-opentype'),
+  url('fontsroximaNova-Regular.woff') format('woff'),
+  url('fontsroximaNova-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('fontsroximaNova-Extrabld.eot');
+  src: local('./fonts/Proxima Nova Extrabold'), local('ProximaNova-Extrabld'),
+  url('fontsroximaNova-Extrabld.eot?#iefix') format('embedded-opentype'),
+  url('fontsroximaNova-Extrabld.woff') format('woff'),
+  url('fontsroximaNova-Extrabld.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}

@@ -1,0 +1,14 @@
+@import "components/all.scss";
+
+body {
+  background-color: rgba(0,0,0, 0.9);
+  width: 100vm;
+  height: 100vh;
+}
+.wrapper {
+  @media (max-width: 645px) {
+    width: calc(100vm - 30px);
+    margin-top: 15px;
+  }
+}
+
